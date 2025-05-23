@@ -1,5 +1,5 @@
 import { Suspense } from 'react';
-import CallbackClient from './client/callback-client';
+import CallbackClient from './client/callbackclient';
 
 export default function CallbackPage() {
   return (
