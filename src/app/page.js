@@ -1,6 +1,6 @@
-// import { LOGIN_URL } from "../app/lib/spotify";
-"use client"
-import { LOGIN_URL } from "./lib/spotify";
+'use client';
+
+import { LOGIN_URL } from './lib/spotify';
 
 export default function Login() {
   return (
